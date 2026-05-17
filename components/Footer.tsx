@@ -36,7 +36,6 @@ export function Footer() {
           </div>
           <div>
             <div className="fcol-h">Contact</div>
-            <a href="mailto:hello@sawubona.org">hello@sawubona.org</a>
             <a href="#">Press kit</a>
             <a href="#">Annual report &apos;25</a>
           </div>
