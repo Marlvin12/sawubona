@@ -28,25 +28,25 @@ export function Footer() {
           </div>
           <div>
             <div className="fcol-h">Chapters</div>
-            <a href="#">Harare</a>
-            <a href="#">Bulawayo</a>
-            <a href="#">Johannesburg</a>
-            <a href="#">Cape Town</a>
-            <a href="#">Online</a>
+            <span className="footer-link-plain">Harare</span>
+            <span className="footer-link-plain">Bulawayo</span>
+            <span className="footer-link-plain">Johannesburg</span>
+            <span className="footer-link-plain">Cape Town</span>
+            <span className="footer-link-plain">Online</span>
           </div>
           <div>
             <div className="fcol-h">Contact</div>
-            <a href="#">Press kit</a>
-            <a href="#">Annual report &apos;25</a>
+            <span className="footer-link-plain">Press kit</span>
+            <span className="footer-link-plain">Annual report &apos;25</span>
           </div>
         </div>
       </div>
       <div className="footer-bot">
         <div>© 2026 Sawubona Foundation · Registered 501(c)(3)</div>
         <div className="footer-links">
-          <a href="#">Privacy</a>
-          <a href="#">Code of conduct</a>
-          <a href="#">Financials</a>
+          <span className="footer-link-plain">Privacy</span>
+          <span className="footer-link-plain">Code of conduct</span>
+          <span className="footer-link-plain">Financials</span>
         </div>
       </div>
     </footer>

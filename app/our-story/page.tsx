@@ -89,8 +89,8 @@ export default function OurStory() {
         <div className="footer-bot" style={{ paddingTop: 0, borderTop: "none" }}>
           <div>© 2026 Sawubona Foundation · Registered 501(c)(3)</div>
           <div className="footer-links">
-            <a href="#">Privacy</a>
-            <a href="#">Code of conduct</a>
+            <span className="footer-link-plain">Privacy</span>
+            <span className="footer-link-plain">Code of conduct</span>
           </div>
         </div>
       </footer>
