@@ -54,19 +54,19 @@ export default function OurStory() {
             letterSpacing: "-0.005em",
           }}>
             <p style={{ marginBottom: 24 }}>
-              Sawubona is rooted in the spirit of <strong>hunhu</strong> — or <strong>ubuntu</strong> — the Southern African belief that our humanity is bound together. That I am because you are.
+              Sawubona is rooted in the spirit of <strong>hunhu</strong>, or <strong>ubuntu</strong>: the Southern African belief that our humanity is bound together. That I am because you are.
             </p>
             <p style={{ marginBottom: 24 }}>
-              We exist to give back. To share the skills we wish we'd had access to growing up — starting with technology.
+              We exist to give back. To share the skills we wish we'd had access to growing up, starting with technology.
             </p>
             <p style={{ marginBottom: 24 }}>
-              Through Sawubona, computer science graduates and professionals from the diaspora — Zimbabweans, South Africans, and others living in the US and abroad — volunteer their time to teach and mentor young people back home. A senior volunteer might give just one hour to introduce high schoolers to ethical AI. Another might walk a group through the basics of game development. It costs nothing. It just takes showing up.
+              Through Sawubona, computer science graduates and professionals from the diaspora (Zimbabweans, South Africans, and others living in the US and abroad) volunteer their time to teach and mentor young people back home. A senior volunteer might give just one hour to introduce high schoolers to ethical AI. Another might walk a group through the basics of game development. It costs nothing. It just takes showing up.
             </p>
             <p style={{ marginBottom: 24 }}>
-              Learners choose their own path. They pick the topics that excite them — game development, web design, data science, AI, and more. Some courses are open to everyone; others have prerequisites to make sure students are set up to succeed.
+              Learners choose their own path. They pick the topics that excite them: game development, web design, data science, AI, and more. Some courses are open to everyone; others have prerequisites to make sure students are set up to succeed.
             </p>
             <p style={{ marginBottom: 24 }}>
-              But this isn't only about technology. Sawubona is about being your brother's keeper. It's about seeing someone — truly seeing them — and deciding to invest in their potential.
+              But this isn't only about technology. Sawubona is about being your brother's keeper. It's about truly seeing someone and deciding to invest in their potential.
             </p>
             <p style={{
               marginTop: 48,
